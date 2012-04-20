@@ -1,7 +1,6 @@
+Import as a project into Eclipse
 
-Import this archive as a project to Eclipse
-
-The project contains two lauch configurations located in the ".launch" directory.
+The project contains two launch configurations located in the ".launch" directory.
 - JavaGameExam (Client).launch : Server is implemented in javatest.game.Server
 - JavaGameExam (Server).launch : Client is implemented in javatest.game.client.Client
 
