@@ -1,3 +1,6 @@
+This simple app was used for as a midterm exam for students of the basic Java course at Charles University in Prague. It contains a simple game engine written in Java which acts as a server accepting connections from TCP clients. The task for the students was to implement the client communicating with the server in order to navigate an flying entity through the space.
+
+
 # Import as a project into Eclipse
 
 The project contains two launch configurations located in the `.launch` directory.
