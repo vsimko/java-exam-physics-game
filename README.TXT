@@ -1,9 +1,0 @@
-Import as a project into Eclipse
-
-The project contains two launch configurations located in the ".launch" directory.
-- JavaGameExam (Client).launch : Server is implemented in javatest.game.Server
-- JavaGameExam (Server).launch : Client is implemented in javatest.game.client.Client
-
-- Animated images are located in "src/images"
-- Source files of animated images are located in "imgdev" use GIMP to edit
-- lib/commons-io-2.0.1.jar is used for reading images from within the JAR file
