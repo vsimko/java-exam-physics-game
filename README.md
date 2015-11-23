@@ -3,12 +3,14 @@ This simple app was used for as a midterm exam for students of the basic Java co
 
 # Import as a project into Eclipse
 
-The project contains two launch configurations located in the `.launch` directory.
-- `JavaGameExam (Client).launch` : Server is implemented in `javatest.game.Server`
-- `JavaGameExam (Server).launch` : Client is implemented in `javatest.game.client.Client`
+The project contains two launch configurations located in the [`.launch`](.launch/) directory.
+- `JavaGameExam (Client).launch` : Server is implemented in
+  [`javatest.game.Server`](src/javatest/game/Server.java)
+- `JavaGameExam (Server).launch` : Client is implemented in
+  [`javatest.game.client.Client`](src/javatest/game/client/Client.java)
 
-- Animated images are located in `src/images`
-- Source files of animated images are located in `imgdev` use GIMP to edit
+- Animated images are located in [`src/images`](src/images/)
+- Source files of animated images are located in [`imgdev`](imgdev/) use GIMP to edit
 - `lib/commons-io-2.0.1.jar` is used for reading images from within the JAR file
 
 # Assignment for Students
